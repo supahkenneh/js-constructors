@@ -21,6 +21,7 @@ Some comments meant to be nested inside of the constructor function, be sure you
 **Example (Before)**
 
 ```javascript
+'use strict'
 /**
  * An example constructor.
  * @class Represents a constructor function.
